@@ -1,0 +1,15 @@
+clear 
+clc
+
+%Arithmetic
+bilanganPertama = 2
+bilanganKedua = 3 
+bilanganPertama 
+bilanganKedua
+
+%plus
+hasilJumlah = bilanganPertama + bilanganKedua 
+hasilJumlah
+
+%minus
+ha
