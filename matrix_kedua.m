@@ -15,3 +15,6 @@ matrixX = matrixA\matrixC
 %misal ada Y*X=C maka berapakah X, 
 %right Division
 MatrixY = matrixC/matrixX
+
+%inverse 
+matrixInverse = inv(matrixA)
